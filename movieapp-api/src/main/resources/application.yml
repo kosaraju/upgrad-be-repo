@@ -10,7 +10,7 @@ spring:
 
   datasource:
     url: jdbc:postgresql://mydbinstance.cfpm0m1wprxx.us-east-1.rds.amazonaws.com:5432/moviedb
-    username: movieapp
+    username: postgres
     password: postgres
 
   jpa:
